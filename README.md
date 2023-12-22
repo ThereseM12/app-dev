@@ -14,4 +14,4 @@
 
 :flying_saucer: **Ancient Aliens** employs a mix of interviews with experts, eyewitness accounts, and dramatic reenactments to present its theories in an engaging and thought-provoking manner.
 
-[^1]: :copyright: T.M.
+[^note]: :copyright: T.M.
